@@ -102,6 +102,18 @@ var config_data = `
       },
       "defaultValue": "x"
     }
+    { "name": "Shooting Position",
+      "code": "sps",
+      "type": "radio",
+      "choices":{
+          "a": "Touching front<br>",
+          "b": "Touching sides<br>",
+          "c": "Column<br>",
+          "d": "Wing Line<br>",
+          "x":  "Not Attempted"
+        },
+        "defaultValue": "x"
+      }
   ],
   "endgame": [
     { "name": "Stage Timer",
