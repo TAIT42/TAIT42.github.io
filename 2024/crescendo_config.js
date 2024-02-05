@@ -113,7 +113,7 @@ var config_data = `
           "x":  "Not Attempted"
         },
         "defaultValue": "x"
-      }
+      },
   ],
   "endgame": [
     { "name": "Stage Timer",
