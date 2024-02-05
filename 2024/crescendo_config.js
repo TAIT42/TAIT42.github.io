@@ -87,7 +87,7 @@ var config_data = `
       "code": "tss",
       "type": "counter"
     },
-    { "name": "Times Amplified",
+    { "name": "Amplified Shots Made",
       "code": "tta",
       "type": "counter"
     },
