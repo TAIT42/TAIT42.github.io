@@ -1,7 +1,7 @@
 var config_data = `
 {
   "dataFormat": "tsv",
-  "title": "Scouting Chargers 2024",
+  "title": "Chargers Scouting",
   "page_title": "Crescendo",
   "checkboxAs": "10",
   "prematch": [
@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2020ilch",
+      "defaultValue": "2020lich",
       "required": "true"
     },
     { "name": "Match Level",
@@ -87,7 +87,7 @@ var config_data = `
       "code": "tss",
       "type": "counter"
     },
-    { "name": "Amplified Shots Made",
+    { "name": "Amplified Scores",
       "code": "tta",
       "type": "counter"
     },
@@ -102,18 +102,6 @@ var config_data = `
       },
       "defaultValue": "x"
     }
-    { "name": "Shooting Position",
-      "code": "sps",
-      "type": "radio",
-      "choices":{
-          "a": "Touching front<br>",
-          "b": "Touching sides<br>",
-          "c": "Column<br>",
-          "d": "Wing Line<br>",
-          "x":  "Not Attempted"
-        },
-        "defaultValue": "x"
-      }
   ],
   "endgame": [
     { "name": "Stage Timer",
@@ -127,8 +115,8 @@ var config_data = `
         "p": "Parked<br>",
         "o": "Onstage<br>",
         "s": "Onstage (Spotlit)<br>",
+        "d": "Harmony Attempted but Failed<br>",
         "h": "Harmony<br>",
-        "d": "Harmony attempted but failed<br>",
         "a": "Attempted but failed<br>",
         "x": "Not attempted"
       },
