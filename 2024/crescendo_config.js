@@ -101,7 +101,7 @@ var config_data = `
         "x": "Not Attempted"
       },
       "defaultValue": "x"
-    },
+    }
     { "name": "Shooting Position",
       "code": "sps",
       "type": "radio",
@@ -113,8 +113,8 @@ var config_data = `
           "x":  "Not Attempted"
         },
         "defaultValue": "x"
-      },
-  },
+      }
+  ],
   "endgame": [
     { "name": "Stage Timer",
       "code": "dt",
