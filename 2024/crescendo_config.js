@@ -114,7 +114,7 @@ var config_data = `
         },
         "defaultValue": "x"
       },
-  ],
+  },
   "endgame": [
     { "name": "Stage Timer",
       "code": "dt",
