@@ -70,7 +70,7 @@ var config_data = `
       "type": "bool"
     },
     { "name": "Defense Rating",
-      "code": "dr",
+      "code": "aab",
       "type": "radio",
       "choices": {
         "b": "Below Average<br>",
