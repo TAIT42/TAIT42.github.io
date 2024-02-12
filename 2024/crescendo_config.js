@@ -163,15 +163,15 @@ var config_data = `
       },
       "defaultValue":"3"
     },
-    { "name": "Speed Rating",
+    { "name": "Radio Test",
       "code": "tit",
       "type": "radio",
       "choices": {
-        "1": "1 (slow)<br>",
-        "2": "2<br>",
-        "3": "3<br>",
-        "4": "4<br>",
-        "5": "5 (fast)"
+        "1": "Dont<br>",
+        "2": "Remember<br>",
+        "3": "Why<br>",
+        "4": "We<br>",
+        "5": "Wanted this"
       },
       "defaultValue":"3"
     },
