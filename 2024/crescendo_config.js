@@ -69,10 +69,6 @@ var config_data = `
       "code": "al",
       "type": "bool"
     },
-     { "name": "Leave Starting Zone",
-      "code": "tit",
-      "type": "bool"
-    },
     { "name": "Amp Scores",
       "code": "aas",
       "type": "counter"
@@ -173,6 +169,10 @@ var config_data = `
     },
     { "name": "Tippy<br>(almost tipped over)",
       "code": "tip",
+      "type": "bool"
+    },
+    { "name": "Drove under Stage",
+      "code": "aaa",
       "type": "bool"
     },
     { "name": "Dropped Notes (>2)",
