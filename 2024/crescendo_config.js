@@ -69,6 +69,16 @@ var config_data = `
       "code": "al",
       "type": "bool"
     },
+    { "name": "Radio Test",
+      "code": "aab",
+      "type": "radio",
+      "choices": {
+        "b": "Dont<br>",
+        "a": "REmember<br>",
+        "g": "why<br>",
+        "e": "we wanted<br>",
+        "x": "this"
+      },
     { "name": "Amp Scores",
       "code": "aas",
       "type": "counter"
