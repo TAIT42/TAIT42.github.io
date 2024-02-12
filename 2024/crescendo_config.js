@@ -70,7 +70,7 @@ var config_data = `
       "type": "bool"
     },
      { "name": "Leave Starting Zone",
-      "code": "al",
+      "code": "tit",
       "type": "bool"
     },
     { "name": "Amp Scores",
