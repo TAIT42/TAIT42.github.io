@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2020lich",
+      "defaultValue": "2022carv",
       "required": "true"
     },
     { "name": "Match Level",
