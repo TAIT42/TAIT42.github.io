@@ -69,16 +69,18 @@ var config_data = `
       "code": "al",
       "type": "bool"
     },
-    { "name": "Radio Test",
-      "code": "aab",
+    { "name": "Defense Rating",
+      "code": "dr",
       "type": "radio",
       "choices": {
-        "b": "Dont<br>",
-        "a": "REmember<br>",
-        "g": "why<br>",
-        "e": "we wanted<br>",
-        "x": "this"
+        "b": "Below Average<br>",
+        "a": "Average<br>",
+        "g": "Good<br>",
+        "e": "Excellent<br>",
+        "x": "Did not play defense"
       },
+      "defaultValue": "x"
+    },
     { "name": "Amp Scores",
       "code": "aas",
       "type": "counter"
