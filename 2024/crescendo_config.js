@@ -87,6 +87,10 @@ var config_data = `
       "code": "tss",
       "type": "counter"
     },
+    { "name": "Missed Speaker",
+      "code": "aaz",
+      "type": "counter"
+    },
     { "name": "Amplified Scores",
       "code": "tta",
       "type": "counter"
