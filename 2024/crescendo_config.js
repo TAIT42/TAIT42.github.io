@@ -118,7 +118,6 @@ var config_data = `
       "choices": {
         "p": "Parked<br>",
         "o": "Onstage<br>",
-        "s": "Onstage (Spotlit)<br>",
         "d": "Harmony Attempted but Failed<br>",
         "h": "Harmony<br>",
         "a": "Attempted but failed<br>",
