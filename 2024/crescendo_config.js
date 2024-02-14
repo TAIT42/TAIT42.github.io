@@ -58,7 +58,7 @@ var config_data = `
     { "name": "Auto Start Position",
       "code": "as",
       "type": "clickable_image",
-      "filename": "2024/field_imagereal.png",
+      "filename": "2024/field_image1.png",
       "dimensions": "15 7",
       "clickRestriction": "one",
       "clickRestriction": "1 31 16 46 61 76 91 105 90 75 60 45 30 15",
@@ -81,7 +81,7 @@ var config_data = `
     { "name": "Auto Start Position",
       "code": "an",
       "type": "clickable_image",
-      "filename": "2024/field_imagereal.png",
+      "filename": "2024/field_image2.png",
       "dimensions": "15 7",
       "shape": "circle 5 black red true"
     }
