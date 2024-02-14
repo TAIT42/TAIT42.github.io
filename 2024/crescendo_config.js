@@ -59,6 +59,7 @@ var config_data = `
       "code": "as",
       "type": "clickable_image",
       "filename": "2024/field_imagereal.png",
+      "dimensions": "15 7",
       "clickRestriction": "onePerBox",
       "shape": "circle 5 black red true"
     }
