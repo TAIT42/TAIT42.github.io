@@ -83,6 +83,7 @@ var config_data = `
       "type": "clickable_image",
       "filename": "2024/field_image2.png",
       "dimensions": "15 7",
+      "allowableResponses": "18 33 48 98 68 53 38 8 28 43 58",
       "shape": "circle 5 black red true"
     }
   ],
