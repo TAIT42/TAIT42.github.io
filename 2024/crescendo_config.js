@@ -77,6 +77,14 @@ var config_data = `
       "code": "ass",
       "type": "counter"
     }
+      { "name": "Auto Start Position",
+      "code": "an",
+      "type": "clickable_image",
+      "filename": "2024/field_imagereal.png",
+      "dimensions": "15 7",
+      "clickRestriction": "5",
+      "shape": "circle 5 black red true"
+    }
   ],
   "teleop": [
     { "name": "Amp Scores",
