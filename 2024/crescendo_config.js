@@ -129,6 +129,10 @@ var config_data = `
       "code": "nit",
       "type": "bool"
     }
+    { "name": "Spotlit",
+      "code": "sot",
+      "type": "bool"
+    }
   ],
   "postmatch": [
     { "name": "Driver Skill",
