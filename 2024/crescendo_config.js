@@ -144,17 +144,6 @@ var config_data = `
     }
   ],
   "postmatch": [
-    { "name": "Driver Skill",
-      "code": "ds",
-      "type": "radio",
-      "choices": {
-        "n": "Not Effective<br>",
-        "a": "Average<br>",
-        "v": "Very Effective<br>",
-        "x": "Not Observed"
-      },
-      "defaultValue": "x"
-    },
     { "name": "Defense Rating",
       "code": "dr",
       "type": "radio",
@@ -176,18 +165,6 @@ var config_data = `
         "3": "3<br>",
         "4": "4<br>",
         "5": "5 (fast)"
-      },
-      "defaultValue":"3"
-    },
-    { "name": "Radio Test",
-      "code": "tit",
-      "type": "radio",
-      "choices": {
-        "1": "Dont<br>",
-        "2": "Remember<br>",
-        "3": "Why<br>",
-        "4": "We<br>",
-        "5": "Wanted this"
       },
       "defaultValue":"3"
     },
