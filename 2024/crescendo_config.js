@@ -61,7 +61,7 @@ var config_data = `
       "filename": "2024/field_image1.png",
       "dimensions": "15 7",
       "clickRestriction": "one",
-      "clickRestriction": "1 31 16 46 61 76 91 105 90 75 60 45 30 15",
+      "allowableResponses": "1 31 16 46 61 76 91 105 90 75 60 45 30 15",
       "shape": "circle 5 black red true"
     }
   ],
@@ -78,7 +78,7 @@ var config_data = `
       "code": "ass",
       "type": "counter"
     },
-    { "name": "Auto Start Position",
+    { "name": "Auto Notes Pickup",
       "code": "an",
       "type": "clickable_image",
       "filename": "2024/field_image2.png",
