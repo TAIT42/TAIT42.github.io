@@ -79,7 +79,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Auto Start Position",
-      "code": "as",
+      "code": "an",
       "type": "clickable_image",
       "filename": "2024/field_imagereal.png",
       "dimensions": "15 7",
