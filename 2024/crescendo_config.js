@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2022carv",
+      "defaultValue": "2024xxxx",
       "required": "true"
     },
     { "name": "Match Level",
@@ -59,8 +59,6 @@ var config_data = `
       "code": "as",
       "type": "clickable_image",
       "filename": "2024/field_imagereal.png",
-      "clickRestriction": "one",
-      "allowableResponses": "1 12 13 24 25 36 37 48 49 60 61 72",
       "shape": "circle 5 black red true"
     }
   ],
